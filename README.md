@@ -1,2 +1,6 @@
 # theory_and_writing
-Some of my more theoretic works and writings.
+Here you will find some of my more theoretic works and writings.
+For example works in:
+- Mathematics
+- Programming theory
+- Etc.
