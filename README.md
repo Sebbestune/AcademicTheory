@@ -3,4 +3,5 @@ Here you will find some of my more theoretic works and writings.
 For example works in:
 - Mathematics
 - Programming theory
-- Etc.
+- Ethics
+- and probably a lot more in the near future!
